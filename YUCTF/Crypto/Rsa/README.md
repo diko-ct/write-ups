@@ -38,3 +38,5 @@ for i in range(100000):
     if itrue :
         print(long_to_bytes(rot))
 ```
+
+flag =  yuctf{y0u_sh0u1d_p1ck_y0ur_e_we11}
