@@ -1,4 +1,7 @@
 # impossible xor 
+![impossible_xor](https://user-images.githubusercontent.com/75040566/189963751-da440684-1099-4e7b-9f5c-ef129a48a476.png)
+
+
 
 ```python 
 import os
