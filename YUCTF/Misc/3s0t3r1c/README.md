@@ -1,0 +1,11 @@
+# 3s0t3r1c
+
+```
+D'`N#?]7}H:WVU0/vt,PNNoonJ[k5!D2|eA!x=+N)(xZpotm3qpongOkd*hgfe^]#a`YA]\[TxXWVU7Mq43OHlLEDCBf@(DCB;_?8=65Yz810/S321q).'&J*j"!~D$#"!a}|u;\[q7utsrkSi/mOkdcb(`H^]\"`BXWVzZ<;WVUTMqQP2NGFEiIHGF?>bB$@9]=<;4381U/43,1*N.-,+kj(!E%${zyx>vuts9wpotm3kSi/mlkd*KJ`edc\[!_^]\U=SwWVU7SLp]
+```
+
+malbolge esoteric lang 
+
+flag = yuctf{3s0t3ric_l4ngu4g3s_4r3_Fun}
+
+
