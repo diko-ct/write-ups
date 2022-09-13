@@ -1,4 +1,8 @@
 # mod_equation
+![mod_equation](https://user-images.githubusercontent.com/75040566/189963955-7fc9f31e-0ff7-4b13-a319-f696b9216e55.png)
+
+
+
 ```python
 flag = list(b'flag')
 c = [] 
