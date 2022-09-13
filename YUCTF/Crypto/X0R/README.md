@@ -1,4 +1,8 @@
-#X0R 
+# X0R 
+
+![X0r](https://user-images.githubusercontent.com/75040566/189963517-6b496f06-3871-48af-9f59-c7d8dafdf0c1.png)
+
+
 ```python
 flag = b'yuctf{}'
 key = b'********'
