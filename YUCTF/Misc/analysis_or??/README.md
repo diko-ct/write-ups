@@ -14,7 +14,7 @@ THE STUDH MS QUASTITATIEELH DESCRIHISU THE CHARACTERISTICS MS A SET MS DATA IS C
 
 ```
 
-you know that it is a pragraph talking about something so you try to search about this paragraph but the paragraph about what ??? 
+you know that it is a paragraph talking about something so you try to search about this paragraph but the paragraph about what ??? 
 it is about analysis the title frequency analysis  
 
 ![analysis2](https://user-images.githubusercontent.com/75040566/190220490-af4314dd-a8fe-4a2c-8b23-1838bd658a34.png)
