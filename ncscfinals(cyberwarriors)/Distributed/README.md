@@ -30,6 +30,7 @@ p = gcd(n1,n2)
 q = max(n1 , n2 ) // p 
 phi = (p-1)*(q-1)
 d = pow(e,-1 , phi)
-m = pow(ciphers[85] , d , max(n1, n2 ))
+m = pow(ciphers[mods.index(max(n1,n2))] , d , max(n1, n2 ))
 print(long_to_bytes(m))
+
 ```
